@@ -138,23 +138,11 @@ td
 	font-size:14.0pt;
 	font-family:"Times New Roman", serif;
 	mso-font-charset:0;
-	mso-number-format:"Short Date";
-	text-align:left;
-	vertical-align:middle;
-	border-top:none;
-	border-right:1.0pt solid windowtext;
-	border-bottom:none;
-	border-left:none;}
-.xl77
-	{mso-style-parent:style0;
-	font-size:14.0pt;
-	font-family:"Times New Roman", serif;
-	mso-font-charset:0;
 	mso-number-format:"\@";
 	text-align:left;
 	vertical-align:middle;
 	border:1.0pt solid windowtext;}
-.xl78
+.xl77
 	{mso-style-parent:style0;
 	font-size:14.0pt;
 	font-family:"Times New Roman", serif;
@@ -163,13 +151,18 @@ td
 	text-align:center;
 	vertical-align:middle;
 	border:1.0pt solid windowtext;}
-.xl79
+.xl78
 	{mso-style-parent:style0;
 	font-size:14.0pt;
 	font-family:"Times New Roman", serif;
 	mso-font-charset:0;
-	mso-number-format:"Short Date";
-	text-align:left;
+	vertical-align:middle;
+	border:1.0pt solid windowtext;}
+.xl79
+	{mso-style-parent:style0;
+	font-size:10.5pt;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
 	vertical-align:middle;
 	border:1.0pt solid windowtext;}
 .xl80
@@ -432,12 +425,10 @@ td
 	font-size:14.0pt;
 	font-family:"Times New Roman", serif;
 	mso-font-charset:0;
+	mso-number-format:"Short Date";
+	text-align:center;
 	vertical-align:middle;
-	border:1.0pt solid windowtext;}
-.xl103
-	{mso-style-parent:style0;
-	font-size:10.5pt;
-	font-family:"Times New Roman", serif;
-	mso-font-charset:0;
-	vertical-align:middle;
-	border:1.0pt solid windowtext;}
+	border-top:none;
+	border-right:1.0pt solid windowtext;
+	border-bottom:none;
+	border-left:none;}
