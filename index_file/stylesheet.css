@@ -233,19 +233,22 @@ td
 	font-size:14.0pt;
 	font-family:"Times New Roman", serif;
 	mso-font-charset:0;
+	mso-number-format:"Short Date";
 	text-align:center;
 	vertical-align:middle;
-	border:1.0pt solid windowtext;
-	white-space:normal;}
+	border:1.0pt solid windowtext;}
 .xl87
 	{mso-style-parent:style0;
 	font-size:14.0pt;
 	font-family:"Times New Roman", serif;
 	mso-font-charset:0;
-	mso-number-format:"Short Date";
-	text-align:center;
+	mso-number-format:"\@";
+	text-align:left;
 	vertical-align:middle;
-	border:1.0pt solid windowtext;}
+	border-top:1.0pt solid windowtext;
+	border-right:1.0pt solid windowtext;
+	border-bottom:none;
+	border-left:1.0pt solid windowtext;}
 .xl88
 	{mso-style-parent:style0;
 	font-size:14.0pt;
@@ -459,9 +462,55 @@ td
 	font-family:"Times New Roman", serif;
 	mso-font-charset:0;
 	mso-number-format:"\@";
-	text-align:left;
+	text-align:center;
 	vertical-align:middle;
-	border-top:1.0pt solid windowtext;
+	border-top:none;
 	border-right:1.0pt solid windowtext;
 	border-bottom:none;
+	border-left:1.0pt solid windowtext;}
+.xl107
+	{mso-style-parent:style0;
+	font-size:14.0pt;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:"Short Date";
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:1.0pt solid windowtext;
+	border-bottom:none;
+	border-left:1.0pt solid windowtext;}
+.xl108
+	{mso-style-parent:style0;
+	font-size:14.0pt;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:"Short Date";
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:1.0pt solid windowtext;
+	border-bottom:1.0pt solid windowtext;
+	border-left:1.0pt solid windowtext;}
+.xl109
+	{mso-style-parent:style0;
+	font-size:14.0pt;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:1.0pt solid windowtext;
+	border-bottom:none;
+	border-left:1.0pt solid windowtext;}
+.xl110
+	{mso-style-parent:style0;
+	font-size:14.0pt;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:1.0pt solid windowtext;
+	border-bottom:1.0pt solid windowtext;
 	border-left:1.0pt solid windowtext;}
