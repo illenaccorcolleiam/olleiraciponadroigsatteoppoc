@@ -208,18 +208,6 @@ td
 	vertical-align:middle;}
 .xl83
 	{mso-style-parent:style0;
-	border:1.0pt solid windowtext;}
-.xl84
-	{mso-style-parent:style0;
-	font-size:14.0pt;
-	font-family:"Times New Roman", serif;
-	mso-font-charset:0;
-	mso-number-format:"Short Date";
-	text-align:center;
-	vertical-align:middle;
-	border:1.0pt solid windowtext;}
-.xl85
-	{mso-style-parent:style0;
 	font-size:14.0pt;
 	font-family:"Times New Roman", serif;
 	mso-font-charset:0;
@@ -229,7 +217,7 @@ td
 	border-right:none;
 	border-bottom:1.0pt solid windowtext;
 	border-left:1.0pt solid windowtext;}
-.xl86
+.xl84
 	{mso-style-parent:style0;
 	font-size:14.0pt;
 	font-family:"Times New Roman", serif;
@@ -240,12 +228,35 @@ td
 	border-right:1.0pt solid windowtext;
 	border-bottom:1.0pt solid windowtext;
 	border-left:none;}
-.xl87
+.xl85
 	{mso-style-parent:style0;
 	font-size:14.0pt;
 	font-family:"Times New Roman", serif;
 	mso-font-charset:0;
 	mso-number-format:"\@";
+	text-align:center;
+	vertical-align:middle;
+	border-top:1.0pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:1.0pt solid windowtext;
+	border-left:1.0pt solid windowtext;}
+.xl86
+	{mso-style-parent:style0;
+	font-size:14.0pt;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:"\@";
+	text-align:center;
+	vertical-align:middle;
+	border-top:1.0pt solid windowtext;
+	border-right:1.0pt solid windowtext;
+	border-bottom:1.0pt solid windowtext;
+	border-left:.5pt solid windowtext;}
+.xl87
+	{mso-style-parent:style0;
+	font-size:14.0pt;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
 	text-align:center;
 	vertical-align:middle;
 	border-top:1.0pt solid windowtext;
@@ -257,7 +268,6 @@ td
 	font-size:14.0pt;
 	font-family:"Times New Roman", serif;
 	mso-font-charset:0;
-	mso-number-format:"\@";
 	text-align:center;
 	vertical-align:middle;
 	border-top:1.0pt solid windowtext;
@@ -269,10 +279,10 @@ td
 	font-size:14.0pt;
 	font-family:"Times New Roman", serif;
 	mso-font-charset:0;
-	text-align:center;
+	text-align:left;
 	vertical-align:middle;
 	border-top:1.0pt solid windowtext;
-	border-right:.5pt solid windowtext;
+	border-right:none;
 	border-bottom:1.0pt solid windowtext;
 	border-left:1.0pt solid windowtext;}
 .xl90
@@ -280,12 +290,12 @@ td
 	font-size:14.0pt;
 	font-family:"Times New Roman", serif;
 	mso-font-charset:0;
-	text-align:center;
+	text-align:left;
 	vertical-align:middle;
 	border-top:1.0pt solid windowtext;
-	border-right:1.0pt solid windowtext;
+	border-right:none;
 	border-bottom:1.0pt solid windowtext;
-	border-left:.5pt solid windowtext;}
+	border-left:none;}
 .xl91
 	{mso-style-parent:style0;
 	font-size:14.0pt;
@@ -294,32 +304,10 @@ td
 	text-align:left;
 	vertical-align:middle;
 	border-top:1.0pt solid windowtext;
-	border-right:none;
-	border-bottom:1.0pt solid windowtext;
-	border-left:1.0pt solid windowtext;}
-.xl92
-	{mso-style-parent:style0;
-	font-size:14.0pt;
-	font-family:"Times New Roman", serif;
-	mso-font-charset:0;
-	text-align:left;
-	vertical-align:middle;
-	border-top:1.0pt solid windowtext;
-	border-right:none;
-	border-bottom:1.0pt solid windowtext;
-	border-left:none;}
-.xl93
-	{mso-style-parent:style0;
-	font-size:14.0pt;
-	font-family:"Times New Roman", serif;
-	mso-font-charset:0;
-	text-align:left;
-	vertical-align:middle;
-	border-top:1.0pt solid windowtext;
 	border-right:1.0pt solid windowtext;
 	border-bottom:1.0pt solid windowtext;
 	border-left:none;}
-.xl94
+.xl92
 	{mso-style-parent:style0;
 	font-size:14.0pt;
 	font-family:"Times New Roman", serif;
@@ -330,7 +318,7 @@ td
 	border-right:.5pt solid windowtext;
 	border-bottom:1.0pt solid windowtext;
 	border-left:.5pt solid windowtext;}
-.xl95
+.xl93
 	{mso-style-parent:style0;
 	font-size:14.0pt;
 	font-family:"Times New Roman", serif;
@@ -343,7 +331,7 @@ td
 	border-left:1.0pt solid windowtext;
 	background:#F4B084;
 	mso-pattern:black none;}
-.xl96
+.xl94
 	{mso-style-parent:style0;
 	font-size:14.0pt;
 	font-family:"Times New Roman", serif;
@@ -356,7 +344,7 @@ td
 	border-left:.5pt solid windowtext;
 	background:#F4B084;
 	mso-pattern:black none;}
-.xl97
+.xl95
 	{mso-style-parent:style0;
 	font-size:14.0pt;
 	font-family:"Times New Roman", serif;
@@ -367,7 +355,7 @@ td
 	border-right:.5pt solid windowtext;
 	border-bottom:1.0pt solid windowtext;
 	border-left:1.0pt solid windowtext;}
-.xl98
+.xl96
 	{mso-style-parent:style0;
 	font-size:14.0pt;
 	font-family:"Times New Roman", serif;
@@ -378,7 +366,7 @@ td
 	border-right:.5pt solid windowtext;
 	border-bottom:1.0pt solid windowtext;
 	border-left:.5pt solid windowtext;}
-.xl99
+.xl97
 	{mso-style-parent:style0;
 	font-size:14.0pt;
 	font-family:"Times New Roman", serif;
@@ -389,6 +377,30 @@ td
 	border-right:1.0pt solid windowtext;
 	border-bottom:1.0pt solid windowtext;
 	border-left:.5pt solid windowtext;}
+.xl98
+	{mso-style-parent:style0;
+	font-size:14.0pt;
+	font-weight:700;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	text-align:left;
+	vertical-align:middle;
+	border-top:1.0pt solid windowtext;
+	border-right:none;
+	border-bottom:1.0pt solid windowtext;
+	border-left:1.0pt solid windowtext;}
+.xl99
+	{mso-style-parent:style0;
+	font-size:14.0pt;
+	font-weight:700;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	text-align:left;
+	vertical-align:middle;
+	border-top:1.0pt solid windowtext;
+	border-right:none;
+	border-bottom:1.0pt solid windowtext;
+	border-left:none;}
 .xl100
 	{mso-style-parent:style0;
 	font-size:14.0pt;
@@ -398,34 +410,10 @@ td
 	text-align:left;
 	vertical-align:middle;
 	border-top:1.0pt solid windowtext;
-	border-right:none;
-	border-bottom:1.0pt solid windowtext;
-	border-left:1.0pt solid windowtext;}
-.xl101
-	{mso-style-parent:style0;
-	font-size:14.0pt;
-	font-weight:700;
-	font-family:"Times New Roman", serif;
-	mso-font-charset:0;
-	text-align:left;
-	vertical-align:middle;
-	border-top:1.0pt solid windowtext;
-	border-right:none;
-	border-bottom:1.0pt solid windowtext;
-	border-left:none;}
-.xl102
-	{mso-style-parent:style0;
-	font-size:14.0pt;
-	font-weight:700;
-	font-family:"Times New Roman", serif;
-	mso-font-charset:0;
-	text-align:left;
-	vertical-align:middle;
-	border-top:1.0pt solid windowtext;
 	border-right:1.0pt solid windowtext;
 	border-bottom:1.0pt solid windowtext;
 	border-left:none;}
-.xl103
+.xl101
 	{mso-style-parent:style0;
 	font-size:14.0pt;
 	font-family:"Times New Roman", serif;
@@ -437,11 +425,34 @@ td
 	border-right:1.0pt solid windowtext;
 	border-bottom:none;
 	border-left:1.0pt solid windowtext;}
+.xl102
+	{mso-style-parent:style0;
+	font-size:14.0pt;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:1.0pt solid windowtext;
+	border-bottom:none;
+	border-left:1.0pt solid windowtext;}
+.xl103
+	{mso-style-parent:style0;
+	font-size:14.0pt;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:1.0pt solid windowtext;
+	border-bottom:1.0pt solid windowtext;
+	border-left:1.0pt solid windowtext;}
 .xl104
 	{mso-style-parent:style0;
 	font-size:14.0pt;
 	font-family:"Times New Roman", serif;
 	mso-font-charset:0;
+	mso-number-format:"Short Date";
 	text-align:center;
 	vertical-align:middle;
 	border-top:none;
@@ -453,6 +464,7 @@ td
 	font-size:14.0pt;
 	font-family:"Times New Roman", serif;
 	mso-font-charset:0;
+	mso-number-format:"Short Date";
 	text-align:center;
 	vertical-align:middle;
 	border-top:none;
@@ -467,19 +479,37 @@ td
 	mso-number-format:"Short Date";
 	text-align:center;
 	vertical-align:middle;
-	border-top:none;
-	border-right:1.0pt solid windowtext;
+	border-top:1.0pt solid windowtext;
+	border-right:none;
 	border-bottom:none;
-	border-left:1.0pt solid windowtext;}
+	border-left:none;}
 .xl107
+	{mso-style-parent:style0;
+	border-top:1.0pt solid windowtext;
+	border-right:none;
+	border-bottom:none;
+	border-left:none;}
+.xl108
 	{mso-style-parent:style0;
 	font-size:14.0pt;
 	font-family:"Times New Roman", serif;
 	mso-font-charset:0;
-	mso-number-format:"Short Date";
+	mso-number-format:"\@";
 	text-align:center;
 	vertical-align:middle;
-	border-top:none;
-	border-right:1.0pt solid windowtext;
-	border-bottom:1.0pt solid windowtext;
+	border-top:1.0pt solid windowtext;
+	border-right:none;
+	border-bottom:none;
+	border-left:none;}
+.xl109
+	{mso-style-parent:style0;
+	font-size:14.0pt;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:"\@";
+	text-align:left;
+	vertical-align:middle;
+	border-top:1.0pt solid windowtext;
+	border-right:none;
+	border-bottom:none;
 	border-left:1.0pt solid windowtext;}
